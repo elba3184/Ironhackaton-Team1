@@ -1,4 +1,4 @@
-# Ironhackaton-Team1
+# Hypertext Assassins
 
 ![programming](https://user-images.githubusercontent.com/22354639/65000732-b002c900-d8ba-11e9-93dd-ac505f09ac7c.gif)
 
