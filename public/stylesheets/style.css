@@ -23,4 +23,7 @@ body {
   .navbar .fas:hover {
     color: red; }
 
+.carousel img {
+  height: 500px; }
+
 /*# sourceMappingURL=style.css.map */
