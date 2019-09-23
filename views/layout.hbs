@@ -9,8 +9,25 @@
 </head>
 <body>
 
+{{#if errorMessage}}
+  <div>{{errorMessage}}</div>
+{{/if}}
+
+  <div class="nav-container">
+     <nav class="nav-right">
+      <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/">Become a host</a></li>
+          <li><a href="/">Help </a></li>
+          <li><a href="/">Sign up</a></li>
+          <li><a href="/">Login</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <br>
   {{{body}}}
 
-  <script src="/javascripts/script.js"></script>
+<script src="/javascripts/script.js"></script>
 </body>
 </html>
