@@ -7,5 +7,5 @@ Hi all!
 I'm scared and glad that we're doing this because we all know how programming is :grimacing::weary:Let's just say it's a lot like this picture. Exactly like it actually. I just hope we can push ourselves and each other through it.
 
 So, first thing's first, we already created our GitHub repo for this project. Good job!
-Now, let's add branches so that we can manage our merge conflicts.
 
+git add > git commit -m "message" > git pull > git push
