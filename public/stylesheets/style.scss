@@ -1,7 +1,40 @@
 body {
-  font: 14px 'Noto Sans KR', sans-serif;
+  font: 14px "Noto Sans KR", sans-serif;
   margin: 0;
   padding: 0;
+}
+
+.navbar {
+  background-color: lightgray;
+
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .nav-link{
+    font-size: 20px;
+    margin-left: 25px;
+  }
+
+  .nav-link,
+  .navbar-brand {
+    color: black;
+  }
+
+  .nav-link:hover,
+  .navbar-brand:hover {
+    color: red;
+  }
+
+  .fas {
+    color: black;
+    font-size: 30px;
+  }
+
+  .fas:hover {
+    color: red;
+  }
 }
 
 // //Navagation Bar
@@ -14,7 +47,7 @@ body {
 //   padding: 20px 0px 20px 0px;
 //   margin: 0;
 //   // position: relative;
- 
+
 // }
 // .nav-container li {
 //   display: inline-block;
@@ -26,7 +59,7 @@ body {
 // .nav-left {
 //   display: flex;
 //   display: inline-block;
-//   align-items: center; 
+//   align-items: center;
 //   position: relative;
 //   // float: left;
 // }
@@ -39,14 +72,12 @@ body {
 //   padding-right: 30px;
 // }
 
-
-
 // nav a {
 //   // color: black;
 //   text-decoration: none;
 //   text-transform: uppercase;
 //   font-size: 16pt;
- 
+
 // }
 
 // nav a:hover {

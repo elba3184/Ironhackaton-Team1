@@ -1,6 +1,26 @@
 body {
-  font: 14px 'Noto Sans KR', sans-serif;
+  font: 14px "Noto Sans KR", sans-serif;
   margin: 0;
   padding: 0; }
+
+.navbar {
+  background-color: lightgray; }
+  .navbar .navbar-brand {
+    font-weight: bold;
+    font-size: 30px; }
+  .navbar .nav-link {
+    font-size: 20px;
+    margin-left: 25px; }
+  .navbar .nav-link,
+  .navbar .navbar-brand {
+    color: black; }
+  .navbar .nav-link:hover,
+  .navbar .navbar-brand:hover {
+    color: red; }
+  .navbar .fas {
+    color: black;
+    font-size: 30px; }
+  .navbar .fas:hover {
+    color: red; }
 
 /*# sourceMappingURL=style.css.map */
